@@ -1,2 +1,2 @@
 # GalaxyExchange
-Galaxy Exchange Sports Betting.
+User Interface Design for Galaxy Exchange Sports Betting.
